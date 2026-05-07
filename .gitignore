@@ -1,0 +1,10 @@
+project_structure/
+server.log
+target/
+*.class
+workers.xml
+*.iml
+script.txt
+server.log
+.vscode
+.DS_Store
